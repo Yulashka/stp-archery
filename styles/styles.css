@@ -128,11 +128,16 @@ footer { background-color: #3D2914;
 .hours { padding-left: 3em; }
 
 
-.find_us { padding-left: 5em; }
+.find_us { padding-left: 5em;
+        padding-top: 10px;}
 
 
 .address { padding-left: 5em; }
 
+
+#hours_h3 {padding-left: 45px;}
+
+#address_h3 {padding-left: 70px;}
 
 #copyright { background-color: #3D2914;
              color: white;
@@ -167,6 +172,10 @@ padding-top: 10px;
     border-bottom: 0;
 }
 
+#music {padding-left: 60px;}
+
+audio {padding-left: 60px;
+       padding-bottom: 15px;}
 
 .images { width: 80%;
           padding: 3rem 1rem 3rem 1rem;
@@ -180,7 +189,8 @@ padding-top: 10px;
 
 #advanced{ margin-left: 5px;}
 
-#private {margin-left: -25px;}
+#private {margin-left: -25px;
+          padding-bottom: 55px;}
 
 .span_1_of_4 {margin-top: 25px;}
 
@@ -199,3 +209,4 @@ a p {font-family: 'Montserrat', sans-serif;
 
 #private_p {margin-left: 3em;
     margin-bottom: 10px;}
+
