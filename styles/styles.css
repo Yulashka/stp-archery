@@ -51,14 +51,14 @@ header nav ul a:hover { color: #3D2914;
 
 /*section.col { float: left; }*/
 
-fig img { width: 80%; 
-          padding: 1rem 1rem .5rem 1rem; }
+article.classes img { width: 80%; 
+                      padding: 1rem 1rem .5rem 1rem; }
 
-figcaption { font-size: 12px;
-             font-style: italic; 
-             text-align: center; 
-             padding: 0rem 0rem 1.5rem 1rem;
-             width: 80%;}
+p.caption { font-size: 12px;
+            font-style: italic; 
+            text-align: center; 
+            padding: 0rem 0rem 1.5rem 1rem;
+            width: 80%;}
 
 article.classes { margin: auto;
                   padding: 0rem 1rem 0rem 3rem; }
