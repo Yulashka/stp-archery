@@ -206,7 +206,9 @@ audio {padding-left: 60px;
 
 
 a p {font-family: 'Montserrat', sans-serif;
-     font-size: 1rem;}
+     font-size: 1rem;
+     font-weight: bold;
+     color: #3D2914; }
 
 
 #basic_p { margin-left: 9em;
@@ -224,5 +226,4 @@ a p {font-family: 'Montserrat', sans-serif;
 #private_p { margin-left: 3em;
              margin-bottom: 10px; }
 
-a p { font-weight: bold;
-      color: #3D2914; }
+
